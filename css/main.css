@@ -479,7 +479,7 @@ html:not(.touchevents) .page-bg-1 {
   color: white;
   font-weight: 700;
   font-size: 24px;
-  width: 43%;
+/*  width: 43%; */
 }
 
 #prev-btn,
