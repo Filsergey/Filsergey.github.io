@@ -479,7 +479,8 @@ html:not(.touchevents) .page-bg-1 {
   color: white;
   font-weight: 700;
   font-size: 24px;
-/*  width: 43%; */
+  font-size: 24px;
+  width: 60vw;
 }
 
 #prev-btn,
@@ -1864,6 +1865,7 @@ html:not(.touchevents) .page-bg-1 {
     font-weight: 900;
     font-size: 13px;
     font-family: "Raleway-ExtraLight";
+    width: 90vw;
   }
   #slidewrapper li p {
     font-size: 1rem;
