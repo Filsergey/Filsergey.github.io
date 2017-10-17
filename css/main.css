@@ -1526,7 +1526,7 @@ html:not(.touchevents) .page-bg-1 {
   }
 
   .AchiveBackground p {
-    font-size: 0.6rem;
+    font-size: 0.9rem;
     margin-left: 1rem;
   }
 
@@ -1560,7 +1560,7 @@ html:not(.touchevents) .page-bg-1 {
   }
 
   .ReviewsText p {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .ReviewsText ul {
@@ -1858,12 +1858,12 @@ html:not(.touchevents) .page-bg-1 {
     font-size: 1.5em;
   }
   .case-intro ul li {
-    font-size: 13px;
+    font-size: 15px;
   }
   .case-intro p {
     list-style-type: disc;
     font-weight: 900;
-    font-size: 13px;
+    font-size: 16px;
     font-family: "Raleway-ExtraLight";
     width: 90vw;
   }
