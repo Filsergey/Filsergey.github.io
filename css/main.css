@@ -1434,6 +1434,7 @@ html:not(.touchevents) .page-bg-1 {
   }
   .case-intro ul li {
     font-size: 20px;
+    list-style-type: none;
   }
   .case-intro p {
     list-style-type: disc;
